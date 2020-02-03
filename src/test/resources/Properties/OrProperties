@@ -1,0 +1,14 @@
+bmlbtn=div>div:last-child >.btn.btn-primary.btn-lg
+
+addcustbtn=button[ng-click='addCust()
+
+firstname=input[ng-model='fname'] 
+lastname=input[ng-model='lname'
+addbtn=button[type='submit']
+
+
+openaccount=button[ng-class='btnClass2']"
+customer=#userSelect
+currency=#currency	
+process=button[type='submit']
+

@@ -29,7 +29,7 @@ public class BankManagerLoginTest extends TestBase
 		//show link on index click on that.. inside code listeners class
 		  System.setProperty("org.uncommons.reportng.escape-output", "false");     
 		
-		//verifyequal("vaibhav","vaibh");		
+		verifyequal("vaibhav","vaibh");		
 		
 	    	driver.findElement(By.cssSelector(or.getProperty("bmlbtn"))).click();
              
